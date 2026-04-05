@@ -117,7 +117,7 @@ services:
         subtitle: ""
         tag: "setup"
         url: "https://github.com/walkxcode/dashboard-icons"
-  - name: "2"
+  - name: "Shopping"
     icon: "fas fa-cloud"
     items:
       - name: "CreditKarma"
@@ -160,7 +160,7 @@ services:
         subtitle: ""
         tag: "setup"
         url: "https://github.com/walkxcode/dashboard-icons"
-  - name: "3"
+  - name: "News"
     icon: "fas fa-cloud"
     items:
       - name: "CreditKarma"
@@ -203,7 +203,7 @@ services:
         subtitle: ""
         tag: "setup"
         url: "https://github.com/walkxcode/dashboard-icons"
-  - name: "4"
+  - name: "Service"
     icon: "fas fa-cloud"
     items:
       - name: "CreditKarma"
