@@ -118,7 +118,7 @@ services:
         tag: "setup"
         url: "https://github.com/walkxcode/dashboard-icons"
   - name: "Shopping"
-    icon: "fas fa-cloud"
+    icon: "fas fa-shopping-cart"
     items:
       - name: "CreditKarma"
         icon: "fa-solid fa-download"
