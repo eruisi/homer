@@ -209,7 +209,7 @@ services:
       - name: "NAS"
         icon: "fa-solid fa-hdd"
         subtitle: ""
-        tag: ""
+        tag: "https://nas.eruisi.top"
         url: "https://nas.eruisi.top"
       - name: "Jellyfin"
         icon: "fa-solid fa-play"
