@@ -120,7 +120,6 @@ services:
   - name: "2"
     icon: "fas fa-cloud"
     items:
-    items:
       - name: "CreditKarma"
         icon: "fa-solid fa-download"
         subtitle: ""
@@ -163,7 +162,6 @@ services:
         url: "https://github.com/walkxcode/dashboard-icons"
   - name: "3"
     icon: "fas fa-cloud"
-    items:
     items:
       - name: "CreditKarma"
         icon: "fa-solid fa-download"
@@ -208,7 +206,6 @@ services:
   - name: "4"
     icon: "fas fa-cloud"
     items:
-    items:
       - name: "CreditKarma"
         icon: "fa-solid fa-download"
         subtitle: ""
@@ -251,7 +248,6 @@ services:
         url: "https://github.com/walkxcode/dashboard-icons"
   - name: "5"
     icon: "fas fa-cloud"
-    items:
     items:
       - name: "CreditKarma"
         icon: "fa-solid fa-download"
@@ -296,7 +292,6 @@ services:
   - name: "6"
     icon: "fas fa-cloud"
     items:
-    items:
       - name: "CreditKarma"
         icon: "fa-solid fa-download"
         subtitle: ""
@@ -340,7 +335,6 @@ services:
   - name: "7"
     icon: "fas fa-cloud"
     items:
-    items:
       - name: "CreditKarma"
         icon: "fa-solid fa-download"
         subtitle: ""
@@ -383,7 +377,6 @@ services:
         url: "https://github.com/walkxcode/dashboard-icons"
   - name: "8"
     icon: "fas fa-cloud"
-    items:
     items:
       - name: "CreditKarma"
         icon: "fa-solid fa-download"
