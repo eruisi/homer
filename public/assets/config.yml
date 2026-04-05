@@ -1,7 +1,10 @@
 ---
 # Homepage configuration
 # See https://fontawesome.com/search for icons options
-
+defaults:
+  layout: columns
+  columns: 8  
+  
 title: "Eruisi Home"
 #subtitle: "Homer"
 #logo: "logo.png"
