@@ -161,7 +161,7 @@ services:
         tag: "setup"
         url: "https://github.com/walkxcode/dashboard-icons"
   - name: "News"
-    icon: "fas fa-cloud"
+    icon: "fas fa-newspaper"
     items:
       - name: "CreditKarma"
         icon: "fa-solid fa-download"
