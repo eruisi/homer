@@ -75,7 +75,7 @@ colors:
 # Leave only a "items" key if not using group (group name, icon & tagstyle are optional, section separation will not be displayed).
 services:
   - name: "Finance"
-    icon: "fas fa-cloud"
+    icon: "fas fa-dollar-sign"
     items:
       - name: "CreditKarma"
         icon: "fa-solid fa-download"
