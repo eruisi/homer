@@ -74,7 +74,7 @@ colors:
 # First level array represent a group.
 # Leave only a "items" key if not using group (group name, icon & tagstyle are optional, section separation will not be displayed).
 services:
-  - name: "1"
+  - name: "Finance"
     icon: "fas fa-cloud"
     items:
       - name: "CreditKarma"
