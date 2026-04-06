@@ -80,7 +80,7 @@ services:
     icon: "fas fa-dollar-sign"
     items:
       - name: "CreditKarma"
-        icon: "fa-solid fa-download"
+        icon: "fa-solid fa-arrow-trend-up"
         subtitle: ""
         tag: "https://www.creditkarma.com"
         url: "https://www.creditkarma.com"
