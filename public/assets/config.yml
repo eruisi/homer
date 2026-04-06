@@ -192,7 +192,7 @@ services:
         tag: "https://cn.popyard.space"
         url: "https://cn.popyard.space"
       - name: "Sina"
-        icon: "fa-solid fa-icons"
+        icon: "fa-brands fa-weibo"
         subtitle: ""
         tag: "https://news.sina.com.cn"
         url: "https://news.sina.com.cn"
