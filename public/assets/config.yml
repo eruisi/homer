@@ -194,7 +194,7 @@ services:
         tag: "setup"
         url: "https://github.com/walkxcode/dashboard-icons"
       - name: "Linkedin"
-        icon: "fa-brands fa-linked"
+        icon: "fa-brands fa-linkedin"
         subtitle: ""
         tag: "https://linkedin.com"
         url: "https://linkedin.com"
