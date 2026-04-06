@@ -59,7 +59,7 @@ colors:
 #links: false
 # links: [] # Allows for navbar (dark mode, layout, and search) without any links
 links:
-       - name: "NAS"
+      - name: "NAS"
         icon: "fa-solid fa-hdd"
         url: "https://nas.eruisi.top"
       - name: "Jellyfin"
