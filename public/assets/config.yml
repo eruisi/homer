@@ -16,6 +16,7 @@ footer: false
 
 # Optional theme customization
 theme: default
+colorTheme: dark
 
 # Optional theme customization (color overrrides)
 # overrrides can also be done using CSS vars 
