@@ -4,6 +4,7 @@
 defaults:
   layout: columns
   columns: 8  
+  colorTheme: dark
   
 title: "Eruisi Home"
 #subtitle: "Homer"
@@ -16,7 +17,6 @@ footer: false
 
 # Optional theme customization
 theme: default
-colorTheme: dark
 
 # Optional theme customization (color overrrides)
 # overrrides can also be done using CSS vars 
