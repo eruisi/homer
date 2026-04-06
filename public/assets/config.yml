@@ -232,7 +232,7 @@ services:
         tag: "https://frigate.eruisi.top"
         url: "https://frigate.eruisi.top"
       - name: "Blog"
-        icon: "fa-solid fa-blogger"
+        icon: "fa-solid fa-blog"
         subtitle: ""
         tag: "https://blog.eruisi.top"
         url: "https://blog.eruisi.top"
