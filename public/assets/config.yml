@@ -214,6 +214,11 @@ services:
   - name: "Service"
     icon: "fas fa-cloud"
     items:
+      - name: "GoogleDrive"
+        icon: "fa-brands fa-google-drive"
+        subtitle: ""
+        tag: "https://drive.google.com"
+        url: "https://drive.google.com"
       - name: "Gmail"
         icon: "fa-solid fa-envelope"
         subtitle: ""
