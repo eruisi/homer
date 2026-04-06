@@ -212,7 +212,7 @@ services:
         tag: "https://nas.eruisi.top"
         url: "https://nas.eruisi.top"
       - name: "Jellyfin"
-        icon: "fa-solid fa-video"
+        icon: "fa-solid fa-clapperboard"
         subtitle: ""
         tag: "https://jellyfin.eruisi.top"
         url: "https://jellyfin.eruisi.top"
