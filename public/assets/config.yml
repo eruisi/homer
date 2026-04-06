@@ -237,7 +237,7 @@ services:
         tag: "https://blog.eruisi.top"
         url: "https://blog.eruisi.top"
       - name: "Gmail"
-        icon: "fa-brand fa-gmail"
+        icon: "fa-brand fa-envelope"
         subtitle: ""
         tag: "https://gmail.com"
         url: "https://gmail.com"
