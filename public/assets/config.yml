@@ -69,7 +69,7 @@ links:
       - name: "TV"
         icon: "fa-solid fa-tv"
         url: "https://tv.eruisi.top"
-      - name: "HA"
+      - name: "HomeAssistant"
         icon: "fa-solid fa-laptop-house"
         url: "https://ha.eruisi.top"
       - name: "Frigate"
