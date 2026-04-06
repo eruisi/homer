@@ -228,7 +228,7 @@ services:
         url: "https://ha.eruisi.top"
       - name: "Frigate"
         icon: "fa-solid fa-video-camera"
-        subtitle: "https://frigate.eruisi.top"
+        subtitle: ""
         tag: "https://frigate.eruisi.top"
         url: "https://frigate.eruisi.top"
       - name: "Discover"
