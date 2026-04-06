@@ -217,7 +217,7 @@ services:
         tag: ""
         url: "https://jellyfin.eruisi.top"
       - name: "HA"
-        icon: "fa-solid fa-palette"
+        icon: "fa-solid fa-laptop-house"
         subtitle: ""
         tag: ""
         url: "https://ha.eruisi.top"
