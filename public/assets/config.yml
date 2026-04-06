@@ -90,7 +90,7 @@ services:
         tag: "setup"
         url: "https://github.com/bastienwirtz/homer/blob/main/docs/configuration.md"
       - name: "BoA"
-        icon: "fa-solid fa-palette"
+        icon: "fa-solid fa-building-columns"
         subtitle: ""
         tag: "theming"
         url: "https://github.com/bastienwirtz/homer/blob/main/docs/theming.md"
