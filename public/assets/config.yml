@@ -103,7 +103,7 @@ services:
         tag: "setup"
         url: "https://github.com/walkxcode/dashboard-icons"
       - name: "Discover"
-        icon: "fa-solid fa-icons"
+        icon: "fa-solid fa-cc-discover"
         subtitle: ""
         tag: "setup"
         url: "https://github.com/walkxcode/dashboard-icons"
