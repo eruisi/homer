@@ -163,7 +163,7 @@ services:
         subtitle: ""
         tag: "https://www.aliexpress.us/"
         url: "https://www.aliexpress.us/"
-      - name: "Tamu"
+      - name: "Temu"
         icon: "fa-solid fa-icons"
         subtitle: ""
         tag: "https://www.temu.com/"
