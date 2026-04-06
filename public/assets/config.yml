@@ -85,7 +85,7 @@ services:
         tag: "https://www.creditkarma.com"
         url: "https://www.creditkarma.com"
       - name: "Chase"
-        icon: "fa-solid fa-sliders"
+        icon: "fa-solid fa-credit-card"
         subtitle: ""
         tag: "setup"
         url: "https://github.com/bastienwirtz/homer/blob/main/docs/configuration.md"
