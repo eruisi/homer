@@ -3,6 +3,7 @@
 # See https://fontawesome.com/search for icons options
 defaults:
   layout: columns
+  target: "_blank"
   colorTheme: dark
   
 title: "Eruisi Home"
