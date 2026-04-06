@@ -229,7 +229,7 @@ services:
       - name: "Frigate"
         icon: "fa-solid fa-video-camera"
         subtitle: "https://frigate.eruisi.top"
-        tag: "setup"
+        tag: "https://frigate.eruisi.top"
         url: "https://frigate.eruisi.top"
       - name: "Discover"
         icon: "fa-solid fa-icons"
