@@ -73,7 +73,7 @@ links:
         icon: "fa-solid fa-laptop-house"
         url: "https://ha.eruisi.top"
       - name: "Frigate"
-        icon: "fa-solid fa-camera"
+        icon: "fa-solid fa-video"
         url: "https://frigate.eruisi.top"
       - name: "Blog"
         icon: "fa-solid fa-blog"
